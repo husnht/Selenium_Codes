@@ -29,7 +29,7 @@ public class FirstClass {
 
         driver.close();
 
-        driver.wait();
+        //driver.wait();
 
 
 
